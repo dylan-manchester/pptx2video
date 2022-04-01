@@ -1,1 +1,3 @@
-# pptx2video
+# Powerpoint to Video Converter
+
+Stay tuned for updates!
